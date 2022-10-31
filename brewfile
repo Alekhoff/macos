@@ -22,6 +22,7 @@ brew 'bash-completion'
 brew 'zsh'
 brew 'zsh-autosuggestions'
 brew 'zsh-syntax-highlighting'
+brew 'fig'
 
 #Casks
 cask 'alt-tab'
@@ -65,11 +66,11 @@ mas 'Keynote', id: 409183694
 mas 'Magnet', id: 441258766
 mas 'Numbers', id: 409203825
 mas 'Pages', id: 409201541
-man 'Snippetslab', id: 1006087419
-man 'Velja', id: 1607635845
-man 'Dropover', id: 1355679052
-man 'Upnote', id: 1398373917
-man 'Pixelmator Pro', id: 1289583905
-man 'Hidden Bar', id: 1452453066
-man 'Paprika Recipe Manager', id: 1303222628
-man 'Magnet', id: 441258766
+mas 'Snippetslab', id: 1006087419
+mas 'Velja', id: 1607635845
+mas 'Dropover', id: 1355679052
+mas 'Upnote', id: 1398373917
+mas 'Pixelmator Pro', id: 1289583905
+mas 'Hidden Bar', id: 1452453066
+mas 'Paprika Recipe Manager', id: 1303222628
+mas 'Magnet', id: 441258766

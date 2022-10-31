@@ -77,7 +77,7 @@ if [[ "$(uname)" == "Darwin" ]]; then
 
 #Conifg Mac OS
  title "Configuring macOS..."
-  ./scripts/config-macos
+  /scripts/config-macos
   echo "Defaults configured!" | indent
   echo
 
